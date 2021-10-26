@@ -2445,6 +2445,10 @@ figcaption {
 
   padding-bottom: 16px;
  }
+ .usd-text {
+
+  padding-top: 32px;
+ }
 
 @media screen and (max-width: 767px) {
   #w-node-_94c93ffa-1f57-91f5-992f-c0d426f02460-31fa1bc7 {
