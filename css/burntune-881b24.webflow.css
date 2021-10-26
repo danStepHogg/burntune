@@ -2441,6 +2441,11 @@ figcaption {
   }
 }
 
+ .copyright-text {
+
+  padding-bottom: 16px;
+ }
+
 @media screen and (max-width: 767px) {
   #w-node-_94c93ffa-1f57-91f5-992f-c0d426f02460-31fa1bc7 {
     -webkit-box-ordinal-group: -9998;
